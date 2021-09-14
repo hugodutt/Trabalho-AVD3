@@ -167,7 +167,7 @@ const styles = StyleSheet.create({
   },
 
   addBtn: {
-    width: 330,
+    width: 200,
     height: 60,
     backgroundColor: "#3e00a1",
     borderRadius: 15,
@@ -191,8 +191,10 @@ const styles = StyleSheet.create({
     margin: 12,
     padding: 10,
     borderColor: "black",
-    width: "100",
-    borderWidth: "2"
+    width: 250,
+    borderWidth: 2,
+    borderRadius: 5,
+  
   },
 
   list: {
